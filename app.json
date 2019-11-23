@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#0089A7",
+    "navigationBarTitleText": "岳远铭的人生程序",
+  },
+  "sitemapLocation": "sitemap.json"
+}
